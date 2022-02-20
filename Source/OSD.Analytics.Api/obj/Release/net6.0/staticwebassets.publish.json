@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xf94c0AKjMYyZrR7dWWffiF8Oph0PBrUIquON7ZYzdg=",
+  "Source": "OSD.Analytics.Api",
+  "BasePath": "_content/OSD.Analytics.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

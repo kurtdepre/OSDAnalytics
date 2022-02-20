@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OSD.Analytics.Core/1.0.0": {
+        "runtime": {
+          "OSD.Analytics.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSD.Analytics.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

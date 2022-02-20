@@ -1,0 +1,17 @@
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Infrastructure.deps.json
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Infrastructure.runtimeconfig.json
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Infrastructure.dll
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Infrastructure.pdb
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Core.dll
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\bin\Release\net6.0\OSD.Analytics.Core.pdb
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.csproj.AssemblyReference.cache
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.AssemblyInfoInputs.cache
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.AssemblyInfo.cs
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.csproj.CopyComplete
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.dll
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\refint\OSD.Analytics.Infrastructure.dll
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.pdb
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\OSD.Analytics.Infrastructure.genruntimeconfig.cache
+C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\obj\Release\net6.0\ref\OSD.Analytics.Infrastructure.dll

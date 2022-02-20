@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OSD.Analytics.Infrastructure
-build_property.ProjectDir = C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Infrastructure\
+build_property.ProjectDir = C:\ris\OSDAnalytics\Source\OSD.Analytics.Infrastructure\
