@@ -1,0 +1,12 @@
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\bin\Debug\net6.0\OSD.Analytics.Core.deps.json
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\bin\Debug\net6.0\OSD.Analytics.Core.dll
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\bin\Debug\net6.0\OSD.Analytics.Core.pdb
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.csproj.AssemblyReference.cache
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.AssemblyInfoInputs.cache
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.AssemblyInfo.cs
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.csproj.CoreCompileInputs.cache
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.dll
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\refint\OSD.Analytics.Core.dll
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\OSD.Analytics.Core.pdb
+C:\Users\KDE\source\repos\OSD.Analytics\OSD.Analytics.Core\obj\Debug\net6.0\ref\OSD.Analytics.Core.dll
