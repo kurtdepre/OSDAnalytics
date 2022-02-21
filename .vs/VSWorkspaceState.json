@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Source",
+    "\\Source\\OSD.Analytics.Api",
+    "\\Source\\OSD.Analytics.Api\\bin",
+    "\\Source\\OSD.Analytics.Api\\bin\\Debug",
+    "\\Source\\OSD.Analytics.Api\\bin\\Debug\\net6.0",
+    "\\Source\\OSD.Analytics.Api\\Endpoints"
+  ],
+  "SelectedNode": "\\Source\\OSD.Analytics.Api\\Endpoints\\MonitorStartEndpoint.cs",
+  "PreviewInSolutionExplorer": false
+}

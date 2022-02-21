@@ -1,4 +1,5 @@
-﻿using OSD.Analytics.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using OSD.Analytics.Core.Entities;
 using OSD.Analytics.Core.Repositories;
 using OSD.Analytics.Infrastructure.DBContexts;
 using System;
@@ -23,6 +24,13 @@ namespace OSD.Analytics.Infrastructure.Repositories
             return await (GetMonitoringEntryAsync(newEntry.EntryID));
 
 
+        }
+
+        public async Task<List<MonitoringEntry>> GetAllMonitoringEntriesAsync()
+        {
+
+            return  await _context.MonitoringEntries.ToListAsync();
+           
         }
 
         public async Task<MonitoringEntry> GetMonitoringEntryAsync(string guid)
