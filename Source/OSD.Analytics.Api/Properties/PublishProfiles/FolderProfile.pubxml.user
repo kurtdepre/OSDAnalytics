@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\ris\OSDAnalytics\WebService Binaries</_PublishTargetUrl>
-    <History>True|2022-02-20T22:29:18.6159871Z;</History>
+    <History>True|2022-02-21T16:26:24.2460358Z;True|2022-02-21T17:22:53.8313558+01:00;False|2022-02-21T17:22:47.2290742+01:00;True|2022-02-21T17:14:26.1483993+01:00;True|2022-02-21T17:11:21.5238539+01:00;False|2022-02-21T17:11:05.5314103+01:00;True|2022-02-21T16:59:10.4764846+01:00;True|2022-02-20T23:29:18.6159871+01:00;</History>
   </PropertyGroup>
 </Project>

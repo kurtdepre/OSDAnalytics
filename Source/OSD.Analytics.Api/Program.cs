@@ -15,7 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
+//builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(
     options =>
     {
@@ -25,7 +25,7 @@ builder.Services.AddSwaggerGen(
             Title = "OSD Analytics WebApi",
             Description = "An Simple WebApi that will provider recording of OSD information in a DB, for later Analysis",
          //   TermsOfService = new Uri("https://example.com/terms"),
-            Contact = new OpenApiContact
+          Contact = new OpenApiContact
             {
                 Name = "Kurt Depre",
                 Url = new Uri("https://github.com/kurtdepre/OSDAnalytics"),
@@ -38,7 +38,7 @@ builder.Services.AddSwaggerGen(
                 Name = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License",
                 Url = new Uri("https://raw.githubusercontent.com/kurtdepre/OSDAnalytics/main/License.txt")
             },
-            
+           
         });
         options.EnableAnnotations();
     }
@@ -55,18 +55,21 @@ builder.Services.AddScoped<IOSDAnalyticsReadWriteRepository, OSDAnalyticsReposit
 
 var app = builder.Build();
 
+//app.UseStaticFiles();
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
         c.DocumentTitle = "OSD Analytics Api Documentation";
+        c.RoutePrefix = string.Empty;
 
     });
-}
+//}
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.UseRouting();
 
 //app.UseAuthorization();

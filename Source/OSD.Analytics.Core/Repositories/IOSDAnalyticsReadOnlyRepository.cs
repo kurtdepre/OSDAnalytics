@@ -10,5 +10,6 @@ namespace OSD.Analytics.Core.Repositories
     public interface IOSDAnalyticsReadOnlyRepository
     {
         Task<MonitoringEntry> GetMonitoringEntryAsync(String guid);
+        Task<List<MonitoringEntry>> GetAllMonitoringEntriesAsync();
     }
 }
