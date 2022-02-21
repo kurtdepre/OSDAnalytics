@@ -31,7 +31,7 @@ Make sure you have Either a SQL login that has write permisions to the freshly c
 2. Change the "DBConnection" in the appsettings.json file to point to your environment.
 3. Make sure IIS is installed & running.
 4. install the [ASP.net Core Hosting bunddle](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.2-windows-hosting-bundle-installer)
-5. [Create a new application pool in IIS](iis-pool-settings) 
+5. [Create a new application pool in IIS](#iis-pool-settings) 
 
 6. Create a website in IIS and point it to the folder used in step 1. (Use the application pool create in step 5)
 7. [Test DB connectivity from webservice](#test-connectivity)
