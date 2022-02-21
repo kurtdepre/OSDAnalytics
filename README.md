@@ -40,9 +40,9 @@ Make sure you have Either a SQL login that has write permisions to the freshly c
 
 ### 6. Import the template TS or Create your own
 
-<Todo Add more info>
+TODO: More info to add
 The next step is to adapt your Tasksequences to include the monitoring steps.
-you can import the template from the folder [Example TS Export](https://github.com/kurtdepre/OSDAnalytics/tree/main/Example%20TS%20Export), to see how to do this.
+you can import the template from the folder [Example TS export](https://github.com/kurtdepre/OSDAnalytics/tree/main/Example%20TS%20Export) , to see how to do this.
 Don't forget to change the URL of the webApi to point to your server.
 
 ### 7. Create Reports
@@ -53,7 +53,7 @@ Don't forget to change the URL of the webApi to point to your server.
 
 ### 8. Cleaning up timed out OSD 
   
-<TO add more info>
+TODO: More info to add
 Sometimes staging never finish (Network issue, hard crash, TS does not start again after reboot). For this we can schedule a script that automatically Fails all OSD sessions running for more then 48 hours.
 see the script Timeout.ps1 in folder [Powershell Scripts](https://github.com/kurtdepre/OSDAnalytics/tree/main/Powershell%20Scripts), This can be run as sheduled taks to perform this cleanup.
 
