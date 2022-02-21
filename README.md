@@ -8,7 +8,7 @@ DISCLAIMER 2: the WebApi as provided in this example is NOT secured and anyone c
 
 This toolset will allow to create "better" reporting for Tasksequences in MEMCM, the native reports do provide a lot of information, but it can be tough to find trends in there because task sequences & computer resources get deleted and the information get lost.
 
-This toolkit creates a separate DB + tables as well as a webservice, combined with some powershell script to run during the TS to capture information.
+This toolkit creates a separate DB + tables as well as a webservice (My network admins/DBAs don't like direct writes to the DB and would not allow the trafic), combined with some powershell script to run during the TS to capture information.
 PowerBi (or other reporting tools) can then be used to analyze the information.
 
 ## 2. Pre-reqs
